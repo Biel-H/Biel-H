@@ -1,5 +1,5 @@
 ## Welcome to my Git! 🥡
-### *A brief introduction about me is: i'm a student in **Senai Informatica** and my focused area is **Cloud Computing**, but i really like to study programming subjects.*
+### *A brief introduction about me is: i'm a student at **Senai Informatica** and my focused area is **Cloud Computing**, but i really like to study programming subjects.*
 ## **I hope you enjoy!** 😀
 - 🔭 I’m currently working on **Darede Services**
 - 🌱 I’m currently learning **Python and Shell script**
