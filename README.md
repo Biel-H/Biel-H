@@ -12,8 +12,7 @@
   <img align="center" alt="Rafa-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Rafa-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />  
   <img img align="center" alt="Rafa-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img img align="center" alt="Rafa-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-  <img img align="center" alt="Rafa-Bash" height="30" width="40" src=        
+  <img img align="center" alt="Rafa-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />     
 </div>
 
 ## Here i will put some of my social medias to contact or know me better
