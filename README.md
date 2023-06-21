@@ -22,8 +22,3 @@
 <div>
   <img align="center" alt="Rafa-Azure" height="40"width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
           
-  
-
-
-![Snake animation](https://github.com/Biel-h/Biel-H/blob/output/github-contribution-grid-snake.svg)
-
