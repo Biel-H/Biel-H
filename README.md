@@ -12,8 +12,7 @@
   <img align="center" alt="Rafa-Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Rafa-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />  
   <img img align="center" alt="Rafa-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img img align="center" alt="Rafa-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />     
-  <img align="center" alt="Biel-Ansible" height="40" width="50" <img src="https://symbols.getvecta.com/stencil_73/122_ansible-icon.c76e065140.svg" />
+  <img img align="center" alt="Rafa-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
     <img align="center" alt="Biel-Ansible" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
          
