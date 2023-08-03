@@ -1,19 +1,20 @@
 ## Welcome to my Git! 🥡
-### *A brief introduction about me is: i'm a student at **Senai Informatica** and my focused area is **Cloud Computing**, but i really like to study programming subjects.*
+### *Hi! My name is Gabriel, and i'm a Computer Network Technician graduated from Senai. My focused areas are **Cloud Computing**, **Network Administration**, and i'm learning and studying programming subjects.*
 ## **I hope you enjoy!** 😀
-- 🔭 I’m currently working on **Darede Services**
-- 🌱 I’m currently learning **Python and Shell script**
-- 📫 How to reach me: You can talk with me in my social medias, that i will list balow
+- 🔭 Open to Work!!
+- 🌱 I’m currently studying ***Analysis and Systems Development*** at **UNIP** university
+- 📫 How to reach me?: You can talk with me using the Linkedin that i fixed below!
 
-### These are some of the services i use:
+### These are some of the services i used to:
 <div style="display: inline_block"><br>
   <img align="center" alt="Biel-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="Biel-Amazon" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  <img align="center" alt="Rafa-Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img align="center" alt="Rafa-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />  
-  <img img align="center" alt="Rafa-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img img align="center" alt="Rafa-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-    <img align="center" alt="Biel-Ansible" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Biel-Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="Biel-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />  
+  <img img align="center" alt="Biel-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img img align="center" alt="Biel-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+  <img img align="center" alt="Biel-Bash" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />
+  <img align="center" alt="Biel-Ansible" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
          
 </div>
